@@ -46,7 +46,7 @@ A little bit about me:
 </a>
 
 <a href="https://www.mysql.com/">
-  <img align="left" alt="MySQL" title="MySQL" width="50px" src="https://raw.githubusercontent.com/dyt08/dyt08/main/assets/mysql.svg" />
+  <img align="left" alt="MySQL" title="MySQL" width="90px" src="https://raw.githubusercontent.com/dyt08/dyt08/main/assets/mysql.svg" />
 </a>
 
 <a href="https://code.visualstudio.com/">

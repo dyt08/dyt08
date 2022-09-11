@@ -18,7 +18,7 @@
 <img align="left" alt="Scikit Learn" width="120px" src="https://scikit-learn.org/stable/_static/scikit-learn-logo-small.png" />
 <img align="left" alt="Scipy" width="50px" src="https://scipy.org/images/logo.svg" />
 <img align="left" alt="VS Code" width="50px" src="https://raw.githubusercontent.com/dyt08/dyt08/main/assets/vscode.svg" />
-<img align="left" alt="Tableau" width="120px" src="https://raw.githubusercontent.com/dyt08/dyt08/main/assets/tableau.svg" />
+<img align="left" alt="Tableau" width="50px" src="https://raw.githubusercontent.com/dyt08/dyt08/main/assets/tableau.svg" />
 <img align="left" alt="Jupyter" width="50px" src="https://jupyter.org/assets/homepage/main-logo.svg" />
 
 <!--

@@ -51,6 +51,10 @@ A little bit about me:
   <img align="left" alt="Scikit Learn" title="Scikit Learn" width="90px" src="https://scikit-learn.org/stable/_static/scikit-learn-logo-small.png" />
 </a>
 
+<a href="https://numpy.org/">
+  <img align="left" alt="Numpy" title="Numpy" width="90px" src="https://upload.wikimedia.org/wikipedia/commons/3/31/NumPy_logo_2020.svg" />
+</a>
+
 <a href="https://scipy.org/">
   <img align="left" alt="Scipy" title="Scipy" width="30px" src="https://scipy.org/images/logo.svg" />
 </a>

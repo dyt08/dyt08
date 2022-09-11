@@ -1,9 +1,14 @@
 ### Hi there, I'm Aditya Nugraha 👋
 
+A little bit about me:
+- I'm Indonesian <img alt="Indonesian" width="18px" src="https://abs-0.twimg.com/emoji/v2/72x72/1f1ee-1f1e9.png" />
+- Currently learning about data science & machine learning
+- 
+
 ### Connect with me 🔗
 
 <a href="https://www.linkedin.com/in/aditya-nugraha/">
-  <img align="left" alt="Aditya Nugraha's Linkedin" title="LinkedIn" width="50px" src="https://raw.githubusercontent.com/dyt08/dyt08/main/assets/linkedin.svg" />
+  <img align="left" alt="Aditya Nugraha's Linkedin" width="50px" src="https://raw.githubusercontent.com/dyt08/dyt08/main/assets/linkedin.svg" />
 </a>
 <a href="https://www.kaggle.com/adityan08/">
   <img align="left" alt="Aditya Nugraha's Kaggle" title="Kaggle" width="50px" src="https://raw.githubusercontent.com/dyt08/dyt08/main/assets/kaggle.svg" />

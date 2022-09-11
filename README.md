@@ -15,11 +15,33 @@ A little bit about me:
 
 </br></br>
 
-### Libraries & Tools ⚙️
+### Tools & Libraries ⚙️
 
 <a href="https://www.python.org/">
   <img align="left" alt="Python" title="Python" width="30px" src="https://raw.githubusercontent.com/dyt08/dyt08/main/assets/python.svg" />
 </a>
+
+<a href="https://www.mysql.com/">
+  <img align="left" alt="MySQL" title="MySQL" width="90px" src="https://raw.githubusercontent.com/dyt08/dyt08/main/assets/mysql.svg" />
+</a>
+
+<a href="https://code.visualstudio.com/">
+  <img align="left" alt="VS Code" title="VS Code" width="30px" src="https://raw.githubusercontent.com/dyt08/dyt08/main/assets/vscode.svg" />
+</a>
+
+<a href="https://jupyter.org/">
+  <img align="left" alt="Jupyter" title="Jupyter" width="30px" src="https://jupyter.org/assets/homepage/main-logo.svg" />
+</a>
+
+<a href="https://www.tableau.com/">
+  <img align="left" alt="Tableau" title="Tableau" width="30px" src="https://raw.githubusercontent.com/dyt08/dyt08/main/assets/tableau.svg" />
+</a>
+
+<a href="https://www.microsoft.com/en-us/microsoft-365/excel">
+  <img align="left" alt="Excel" title="Excel" width="30px" src="https://raw.githubusercontent.com/dyt08/dyt08/main/assets/excel.svg" />
+</a>
+
+</br></br>
 
 <a href="https://pandas.pydata.org/">
   <img align="left" alt="Pandas" title="Pandas" width="90px" src="https://pandas.pydata.org/static/img/pandas_white.svg" />
@@ -43,26 +65,6 @@ A little bit about me:
 
 <a href="https://plotly.com/">
   <img align="left" alt="Plotly" title="Plotly" width="90px" src="https://images.prismic.io/plotly-marketing-website-2/69e12d6a-fb65-4b6e-8423-9465a29c6028_plotly-logo-lg.png" />
-</a>
-
-<a href="https://www.mysql.com/">
-  <img align="left" alt="MySQL" title="MySQL" width="90px" src="https://raw.githubusercontent.com/dyt08/dyt08/main/assets/mysql.svg" />
-</a>
-
-<a href="https://code.visualstudio.com/">
-  <img align="left" alt="VS Code" title="VS Code" width="30px" src="https://raw.githubusercontent.com/dyt08/dyt08/main/assets/vscode.svg" />
-</a>
-
-<a href="https://jupyter.org/">
-  <img align="left" alt="Jupyter" title="Jupyter" width="30px" src="https://jupyter.org/assets/homepage/main-logo.svg" />
-</a>
-
-<a href="https://www.tableau.com/">
-  <img align="left" alt="Tableau" title="Tableau" width="30px" src="https://raw.githubusercontent.com/dyt08/dyt08/main/assets/tableau.svg" />
-</a>
-
-<a href="https://www.microsoft.com/en-us/microsoft-365/excel">
-  <img align="left" alt="Excel" title="Excel" width="30px" src="https://raw.githubusercontent.com/dyt08/dyt08/main/assets/excel.svg" />
 </a>
 
 </br></br>

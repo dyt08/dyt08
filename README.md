@@ -41,8 +41,6 @@ A little bit about me:
   <img align="left" alt="Excel" title="Excel" width="30px" src="https://raw.githubusercontent.com/dyt08/dyt08/main/assets/excel.svg" />
 </a>
 
-</br></br>
-
 <a href="https://pandas.pydata.org/">
   <img align="left" alt="Pandas" title="Pandas" width="90px" src="https://pandas.pydata.org/static/img/pandas_white.svg" />
 </a>
@@ -50,6 +48,8 @@ A little bit about me:
 <a href="https://scikit-learn.org/">
   <img align="left" alt="Scikit Learn" title="Scikit Learn" width="90px" src="https://scikit-learn.org/stable/_static/scikit-learn-logo-small.png" />
 </a>
+
+</br></br>
 
 <a href="https://numpy.org/">
   <img align="left" alt="Numpy" title="Numpy" width="90px" src="https://upload.wikimedia.org/wikipedia/commons/3/31/NumPy_logo_2020.svg" />

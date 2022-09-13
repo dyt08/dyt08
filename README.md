@@ -70,10 +70,3 @@ A little bit about me:
 <a href="https://plotly.com/">
   <img align="left" alt="Plotly" title="Plotly" width="90px" src="https://images.prismic.io/plotly-marketing-website-2/69e12d6a-fb65-4b6e-8423-9465a29c6028_plotly-logo-lg.png" />
 </a>
-
-</br></br>
-
-### GitHub activity 
-[![Seif's github stats](https://github-readme-stats.vercel.app/api?username=dyt08)](https://github.com/dyt08)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dyt08&layout=compact)](https://github.com/dyt08)

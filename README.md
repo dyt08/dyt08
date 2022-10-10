@@ -1,12 +1,12 @@
-### Hi there, I'm Aditya Nugraha 👋
+### Hi there, I'm Aditya Nugraha
 
 A little that you might want to know:
-- I'm from Indonesia <img alt="Indonesian" width="16px" src="https://abs-0.twimg.com/emoji/v2/72x72/1f1ee-1f1e9.png" />
+- I'm Indonesian <img alt="Indonesian" width="16px" src="https://abs-0.twimg.com/emoji/v2/72x72/1f1ee-1f1e9.png" />
 - Currently learning about data science & machine learning
 - Looking for job opportunities in data specialists (data scientist, data analyst, ML engineer)
 - Pinned section below is my portfolio, there is still much that can be improved and things that need to be learned, but hopefully you like it.
 
-### Connect with me 🤝
+### Connect with me
 
 <a href="https://www.linkedin.com/in/aditya-nugraha/">
   <img align="left" alt="Aditya Nugraha's Linkedin" title="LinkedIn" width="30px" src="https://raw.githubusercontent.com/dyt08/dyt08/main/assets/linkedin.svg" />
@@ -17,7 +17,7 @@ A little that you might want to know:
 
 </br></br>
 
-### Tools & Libraries ⚙️
+### Tools & Libraries
 
 <a href="https://www.python.org/">
   <img align="left" alt="Python" title="Python" width="30px" src="https://raw.githubusercontent.com/dyt08/dyt08/main/assets/python.svg" />

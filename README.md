@@ -39,6 +39,10 @@ A little that you might want to know:
   <img align="left" alt="Tableau" title="Tableau" width="30px" src="https://raw.githubusercontent.com/dyt08/dyt08/main/assets/tableau.svg" />
 </a>
 
+<a href="https://www.google.com/sheets/about/">
+  <img align="left" alt="Google Sheets" title="Google Sheets" width="30px" src="https://www.gstatic.com/images/branding/product/1x/hh_sheets_64dp.png" />
+</a>
+
 <a href="https://www.microsoft.com/en-us/microsoft-365/excel">
   <img align="left" alt="Excel" title="Excel" width="30px" src="https://raw.githubusercontent.com/dyt08/dyt08/main/assets/excel.svg" />
 </a>
@@ -55,6 +59,10 @@ A little that you might want to know:
 
 <a href="https://numpy.org/">
   <img align="left" alt="Numpy" title="Numpy" width="90px" src="https://upload.wikimedia.org/wikipedia/commons/3/31/NumPy_logo_2020.svg" />
+</a>
+
+<a href="https://www.statsmodels.org/">
+  <img align="left" alt="Statsmodels" title="Statsmodels" width="120px" src="https://www.statsmodels.org/stable/_images/statsmodels-logo-v2-horizontal.svg" />
 </a>
 
 <a href="https://scipy.org/">

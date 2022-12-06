@@ -3,7 +3,7 @@
 A little that you might want to know:
 - I'm Indonesian <img alt="Indonesian" width="16px" src="https://abs-0.twimg.com/emoji/v2/72x72/1f1ee-1f1e9.png" />
 - Currently learning about data science & machine learning
-- <s>Looking for job opportunities in data processing (data scientist, data analyst, ML engineer)</s>
+- <s>Looking for job opportunities that perform data processing (data scientist, data analyst, ML engineer)</s>
 - Pinned section below is my portfolio, there is still much that can be improved and things that need to be learned, but hopefully you like it.
 
 ### Connect with me
